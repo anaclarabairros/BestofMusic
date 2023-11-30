@@ -50,7 +50,8 @@ body{
 }
 
 .container_imagem{
-    margin: 100px 50px 100px 160px;
+    margin: 100px 5px 5px 100px;
+    width: 10em;
 }
 
 .container_caixa{
@@ -61,4 +62,24 @@ body{
     margin:20px 40px 80px 190px;
     border-radius: 10px;
     width: 20em;
+}
+
+.descricao_texto{
+    color: white;
+    font-size: 25px;
+    margin: 100px 40px 100px 70px;
+}
+
+.secundario_imagem{
+    width: 80%;
+}
+
+.secundario{
+    align-items:center;
+}
+
+.descricao_titulo{
+    color:#C070FF;
+    margin: 40px 20px 100px 80px;
+    font-size: 40px;
 }
